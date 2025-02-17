@@ -17,7 +17,7 @@ I'm particularly interested in:
 ## 📫 Get in Touch  
 - 📧 Email me at **cprinsloo@dvtsoftware.com**  
 - 💼 Full-time at [DVT Software](https://dvtsoftware.com)  
-- 🔗 Check out my **personal GitHub profile**: [@NelCapeTown](https://github.com/nelcapetown) *(where I tinker with personal projects!)*  
+- 🔗 Check out my **personal GitHub profile**: [@NelCapeTown](https://github.com/nelcapetown) *(where I manage personal and hobby projects!)*  
 
 ## 😄 Pronouns  
 He/him/his  
